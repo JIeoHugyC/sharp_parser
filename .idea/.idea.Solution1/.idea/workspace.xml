@@ -4,22 +4,24 @@
     <projectFile>sharp_parser/sharp_parser.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cffcf22-afc2-4e49-89b4-7a260fc470ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharp_parser.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharp_parser/Address.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharp_parser/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharp_parser/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharp_parser/sharp_parser.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharp_parser_test/UnitTest1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharp_parser_test/Usings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharp_parser_test/sharp_parser_test.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7cffcf22-afc2-4e49-89b4-7a260fc470ee" name="Changes" comment="First unit test">
+      <change afterPath="$PROJECT_DIR$/sharp_parser/test/admin_users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sharp_parser/test/admin_users.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sharp_parser/test/regular_users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sharp_parser/test/regular_users.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharp_parser/Address.cs" beforeDir="false" afterPath="$PROJECT_DIR$/sharp_parser/Address.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharp_parser/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/sharp_parser/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharp_parser/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/sharp_parser/User.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/915b4a23253f4570818a19dc2cad19c9add10/c5/7e595758/JsonConvert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f64d90774174ac9bb7b7bb64cbace5f32719a308ed114b4a7a5c52ee0cf1d36/Type.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,8 +76,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673289496138</updated>
-      <workItem from="1673289497439" duration="1817000" />
+      <workItem from="1673289497439" duration="4048000" />
     </task>
+    <task id="LOCAL-00001" summary="First unit test">
+      <created>1673291504584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673291504584</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +95,7 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="First unit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="First unit test" />
   </component>
 </project>
